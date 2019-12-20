@@ -1,7 +1,7 @@
 import * as firebase from 'firebase';
 
 var firebaseConfig = {
-    apiKey: process.env.FIREBASE_API_KEY,
+    apiKey: "AIzaSyDLdxdIMqlsg0Zj7loTkF7cQM2MjhC9Rfg",
     authDomain: process.env.FIREBASE_AUTH_DOMAIN,
     databaseURL: "https://design-454c3.firebaseio.com",
     projectId: process.env.FIREBASE_PROJECT_ID,
