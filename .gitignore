@@ -1,4 +1,5 @@
 /node_modules/
+src/playground
 .env.development
 .env.production
 public/dist/bundle.js
